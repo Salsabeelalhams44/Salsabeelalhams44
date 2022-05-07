@@ -26,7 +26,7 @@ I'm  Salsabeel from Palestine, and I make mobile apps. I really enjoy learning l
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabeelalhams44 )](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=salsabeelalhams44 &show_icons=true)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salsabeelalhams44 )  
 
