@@ -13,7 +13,7 @@ I'm  Salsabeel from Palestine, and I make mobile apps. I really enjoy learning l
 - 👩‍💻JAVA and DART 
 - 📱FLUTTER
 
-[<img src='https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp' alt =' introduction'>]
+<img src='https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp' alt =' introduction'>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/salsabeelalhams/) 
