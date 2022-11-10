@@ -2,7 +2,7 @@
 
 
 I'm  Salsabeel from Palestine, and I make mobile apps. I really enjoy learning languages and frameworks like Dart and Flutter.
-- 🔭 I’m currently working on my graduation project. 
+- 🔭 I’m currently working on flutter project. 
 - 🌱 I’m currently learning problem solving and more about flutter  
 - 👯 I’m looking to collaborate on real project and gain more knowledge and experience in Flutter Development  
 - 💬 Ask me about Java, dart and Flutter  
