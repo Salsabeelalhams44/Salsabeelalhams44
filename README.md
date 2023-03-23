@@ -1,17 +1,20 @@
 ## Salsabeel Alhams 
 
 
-I'm  Salsabeel from Palestine, and I make mobile apps. I really enjoy learning languages and frameworks like Dart and Flutter.
-- 🔭 I’m currently working on flutter project. 
-- 🌱 I’m currently learning problem solving and more about flutter  
-- 👯 I’m looking to collaborate on real project and gain more knowledge and experience in Flutter Development  
-- 💬 Ask me about Java, dart and Flutter  
+I'm  Salsabeel from Palestine, and I make mobile apps. I really enjoy learning languages and frameworks like Dart and Flutter and ERPNEXT.
+- 🔭 I’m currently working as a ERPNEXT Developer. 
+- 🌱 I’m currently learning problem solving and improve my skills in ERPNEXT.  
+- 👯 I’m looking to collaborate on real project and gain more knowledge and experience in ERPNEXT Development  
+- 💬 Ask me about Java, dart, Flutter, python, JS, Frappe, Api and ERPNET 
 - 📫 How to reach me: salsabeelalhams99@gmail.com  
 
 
 ## Skills and Experience:
-- 👩‍💻JAVA and DART 
-- 📱FLUTTER
+- JAVA, JS, Python and DART 
+- FLUTTER
+- API
+- Frappe
+- ERPNEXT
 
 <img src='https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp' alt =' introduction'>
 
