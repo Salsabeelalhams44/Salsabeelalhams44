@@ -7,7 +7,7 @@ I’m passionate about ensuring software quality, improving user experience, and
 - 🌱 I’m improving my skills in **Software Testing, Test Case Design, Bug Tracking, and Automation Basics**  
 - 👯 I’m looking to collaborate on real projects to gain more hands-on experience in **QA & Testing**  
 - 💬 Ask me about **Manual Testing, Test Scenarios, SDLC, Agile, APIs, Python, Java, ERPNext, and Frappe**  
-- 📫 How to reach me: **salsabeelalhams99@gmail.com**
+- 📫 How to reach me: **s.alhams545@gmail.com**
 
 ---
 
