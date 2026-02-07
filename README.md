@@ -39,12 +39,12 @@ I’m passionate about ensuring software quality, improving user experience, and
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=salsabeelalhams44)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=salsabeelalhams44&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabeelalhams44)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salsabeelalhams44&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=salsabeelalhams44)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=salsabeelalhams44)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=salsabeelalhams44)  
+![Profile views](https://komarev.com/ghpvc/?username=salsabeelalhams44&label=Profile%20views)
 
 ![Profile views](https://gpvc.arturio.dev/salsabeelalhams44)  
